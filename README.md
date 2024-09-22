@@ -1,6 +1,6 @@
 # music_ai_prompt  / 音乐 AI 提示词指南
 
-音乐 AI 提示词指南。从个人规划到财务管理，从创作、制作、演出到发行推广。
+音乐 AI 提示词指南。从个人规划到财务管理，从创作、制作、演出到发行推广。  
 Music AI Prompt Guide. From personal planning to financial management, from creation, production, and performance to distribution and promotion.
 
 [**中文版**](https://zoejane.github.io/music_ai_prompt/#%E5%89%8D%E8%A8%80) / [**English Version**](https://zoejane.github.io/music_ai_prompt/#foreward)
