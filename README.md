@@ -20,7 +20,7 @@ Music AI Prompt Guide. From personal planning to financial management, from crea
 
 这里涵盖的不仅仅是如何生成旋律，而是从个人规划到收入管理，从创作、制作、演出到发行推广，**为你提供 AI 辅助下的全方位解决方案**。
 
-这里的每一条提示，都是为你量身定制的工具，让我们一起探索AI在音乐领域的无限可能！
+这里的每一条提示，都是为你量身定制的工具，让我们一起探索 AI 在音乐领域的无限可能！
 
 ---
 
