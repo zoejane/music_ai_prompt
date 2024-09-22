@@ -25,22 +25,22 @@ It offers AI-powered, all-in-one music solutions—from personal planning to inc
 
 ## 目录
 
-### 1. **目标定位与职业发展（Artistic Goals & Career Development）**
-   - 目标设定与音乐风格定位
-   - 职业路径规划
-   - 个人品牌与音乐风格的一致性
-### 2. **音乐创作与制作（Music Creation & Production）**
-   - 作词与作曲
-   - 编曲与音效设计
-   - 录音、混音与母带制作
-### 3. **音乐表演与表现（Music Performance & Expression）**
-   - 演唱与乐器表现
-   - 表演录音
-   - 现场表现力
-### 4. **发行、推广与经济管理（Publishing, Promotion & Financial Management）**
-   - 音乐发行平台与策略
-   - 市场推广与粉丝互动
-   - 收入与成本管理
+### 第一章：目标定位与职业发展（Artistic Goals & Career Development）
+   - 1.1 目标设定与音乐风格定位
+   - 1.2 职业路径规划
+   - 1.3 个人品牌与音乐风格的一致性
+### 第二章：音乐创作与制作（Music Creation & Production）
+   - 2.1 作词与作曲
+   - 2.2 编曲与音效设计
+   - 2.3 录音、混音与母带制作
+###  第三章：音乐表演与表现（Music Performance & Expression）
+   - 3.1 演唱与乐器表现
+   - 3.2 表演录音
+   - 3.3 现场表现力
+### 第四章：发行、推广与财务管理（Publishing, Promotion & Financial Management）
+   - 4.1 音乐发行平台与策略
+   - 4.2 市场推广与粉丝互动
+   - 4.3 收入与成本管理
 
 ---
 
@@ -489,22 +489,27 @@ Each prompt here is a tool tailored just for you. Let’s explore the endless po
 
 ## Table of Contents
 
-### 1. **Artistic Goals & Career Development**
-   - Goal Setting & Musical Style Definition
-   - Career Path Planning
-   - Personal Branding & Musical Style Consistency
-### 2. **Music Creation & Production**
-   - Songwriting & Composition
-   - Arrangement & Sound Design
-   - Recording, Mixing & Mastering
-### 3. **Music Performance & Expression**
-   - Vocal & Instrumental Performance
-   - Performance Recording
-   - Live Stage Presence
-### 4. **Publishing, Promotion & Financial Management**
-   - Music Distribution Platforms & Strategies
-   - Marketing & Fan Engagement
-   - Income & Cost Management
+Here’s the translation:
+
+### Chapter 1: Artistic Goals & Career Development
+   - 1.1 Goal Setting & Music Style Positioning
+   - 1.2 Career Path Planning
+   - 1.3 Personal Branding & Music Style Consistency
+
+### Chapter 2: Music Creation & Production
+   - 2.1 Songwriting & Composition
+   - 2.2 Arrangement & Sound Design
+   - 2.3 Recording, Mixing & Mastering
+
+### Chapter 3: Music Performance & Expression
+   - 3.1 Vocal & Instrumental Performance
+   - 3.2 Performance Recording
+   - 3.3 Live Performance Presence
+
+### Chapter 4: Publishing, Promotion & Financial Management
+   - 4.1 Music Distribution Platforms & Strategies
+   - 4.2 Marketing & Fan Engagement
+   - 4.3 Income & Cost Management
 
 ---
 
