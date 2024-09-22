@@ -1,10 +1,7 @@
 # music_ai_prompt  / 音乐 AI 提示词指南
 
-你的专属音乐 AI 提示词使用指南。  
-提供 AI 辅助下的全方位音乐解决方案，从个人规划到收入管理，从创作、制作到发行推广。
-
-Your personalized AI prompt guide for music.   
-It offers AI-powered, all-in-one music solutions—from personal planning to income management, from creation and production to distribution and promotion.
+音乐 AI 提示词指南。从个人规划到财务管理，从创作、制作、演出到发行推广。
+Music AI Prompt Guide. From personal planning to financial management, from creation, production, and performance to distribution and promotion.
 
 [**中文版**](https://zoejane.github.io/music_ai_prompt/#%E5%89%8D%E8%A8%80) / [**English Version**](https://zoejane.github.io/music_ai_prompt/#foreward)
 
