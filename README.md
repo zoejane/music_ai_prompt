@@ -7,6 +7,7 @@ Your personalized AI prompt guide for music.
 It offers AI-powered, all-in-one music solutions—from personal planning to income management, from creation and production to distribution and promotion.
 
 - GitHub 仓库：[https://github.com/zoejane/music_ai_prompt](https://github.com/zoejane/music_ai_prompt)
+- 网页: [https://zoejane.github.io/music\_ai\_prompt/](https://zoejane.github.io/music_ai_prompt/)
 - 微信公众号: ZoeJane
 - 网易云音乐 / QQ音乐: ZoeJane
 
