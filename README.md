@@ -6,8 +6,12 @@
 Your personalized AI prompt guide for music.   
 It offers AI-powered, all-in-one music solutions—from personal planning to income management, from creation and production to distribution and promotion.
 
-- GitHub 仓库：[https://github.com/zoejane/music_ai_prompt](https://github.com/zoejane/music_ai_prompt)
+[**中文版**](https://zoejane.github.io/music_ai_prompt/#%E5%89%8D%E8%A8%80) / [**English Version**](https://zoejane.github.io/music_ai_prompt/#foreward)
+
+---
+
 - 网页版: [https://zoejane.github.io/music\_ai\_prompt/](https://zoejane.github.io/music_ai_prompt/)
+- GitHub 仓库：[https://github.com/zoejane/music_ai_prompt](https://github.com/zoejane/music_ai_prompt)
 - 微信公众号: ZoeJane
 - 网易云音乐 / QQ音乐: ZoeJane
 
@@ -25,7 +29,7 @@ It offers AI-powered, all-in-one music solutions—from personal planning to inc
 
 ## 目录
 
-**中文版** / [**English Version（英文版）**](https://zoejane.github.io/music_ai_prompt/#table-of-contents)
+
 - [**第一章：目标定位与职业发展（Artistic Goals & Career Development）**](https://zoejane.github.io/music_ai_prompt/#%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%BD%8D%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95artistic-goals--career-development)
    - 1.1 目标设定与音乐风格定位
    - 1.2 职业路径规划
@@ -149,16 +153,16 @@ It offers AI-powered, all-in-one music solutions—from personal planning to inc
 **Prompt 示例 1**：
 - “帮我为一首流行歌曲设计AABB押韵的副歌。”
 - **AI 生成的输出**：
-  - “We’re running fast, no looking back,  
-	The sky is wide, our hearts intact.  
-	We’ll face the storm, we’ll face the fight,  
-	Together we’ll burn through the night.”
+  - “我们飞速前进，不再回头，  
+	天空辽阔，心依然自由。  
+	风雨袭来，迎接战斗，  
+	并肩燃烧，直到天黑尽头。”
 
 **Prompt 示例 2**：
 - “帮我生成一段具有内部押韵的歌词，适合说唱风格。”
 - **AI 生成的输出**：
-  - “I’m climbing higher, never tired, wired to inspire,  
-	Breaking the fire, desire’s never dire, aiming to acquire.”
+  - “我要攀得更高，从不疲惫，心里充满火焰，继续追随，  
+	打破阻碍，欲望不灭，目标坚定，未来无悔。”
 
 #### 2.1.3 旋律线与和弦进程
 
