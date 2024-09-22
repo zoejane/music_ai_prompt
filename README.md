@@ -25,19 +25,19 @@ It offers AI-powered, all-in-one music solutions—from personal planning to inc
 
 ## 目录
 
-### 第一章：目标定位与职业发展（Artistic Goals & Career Development）
+- [第一章：目标定位与职业发展（Artistic Goals & Career Development）](https://zoejane.github.io/music_ai_prompt/#%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%BD%8D%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95artistic-goals--career-development)
    - 1.1 目标设定与音乐风格定位
    - 1.2 职业路径规划
    - 1.3 个人品牌与音乐风格的一致性
-### 第二章：音乐创作与制作（Music Creation & Production）
+- [第二章：音乐创作与制作（Music Creation & Production）](https://zoejane.github.io/music_ai_prompt/#%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C%E4%B8%8E%E5%88%B6%E4%BD%9Cmusic-creation--production)
    - 2.1 作词与作曲
    - 2.2 编曲与音效设计
    - 2.3 录音、混音与母带制作
-###  第三章：音乐表演与表现（Music Performance & Expression）
+- [第三章：音乐表演与表现（Music Performance & Expression）](https://zoejane.github.io/music_ai_prompt/#%E7%AC%AC%E4%B8%89%E7%AB%A0%E9%9F%B3%E4%B9%90%E8%A1%A8%E6%BC%94%E4%B8%8E%E8%A1%A8%E7%8E%B0music-performance--expression)
    - 3.1 演唱与乐器表现
    - 3.2 表演录音
    - 3.3 现场表现力
-### 第四章：发行、推广与财务管理（Publishing, Promotion & Financial Management）
+- [第四章：发行、推广与财务管理（Publishing, Promotion & Financial Management）](https://zoejane.github.io/music_ai_prompt/#%E7%AC%AC%E5%9B%9B%E7%AB%A0%E5%8F%91%E8%A1%8C%E6%8E%A8%E5%B9%BF%E4%B8%8E%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86publishing-promotion--financial-management)
    - 4.1 音乐发行平台与策略
    - 4.2 市场推广与粉丝互动
    - 4.3 收入与成本管理
