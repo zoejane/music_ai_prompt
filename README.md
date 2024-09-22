@@ -25,6 +25,7 @@ It offers AI-powered, all-in-one music solutions—from personal planning to inc
 
 ## 目录
 
+**中文版** / [**English Version（英文版）**](https://zoejane.github.io/music_ai_prompt/#table-of-contents)
 - [**第一章：目标定位与职业发展（Artistic Goals & Career Development）**](https://zoejane.github.io/music_ai_prompt/#%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%BD%8D%E4%B8%8E%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95artistic-goals--career-development)
    - 1.1 目标设定与音乐风格定位
    - 1.2 职业路径规划
@@ -488,8 +489,6 @@ Each prompt here is a tool tailored just for you. Let’s explore the endless po
 ---
 
 ## Table of Contents
-
-Here’s the translation:
 
 ### Chapter 1: Artistic Goals & Career Development
    - 1.1 Goal Setting & Music Style Positioning
