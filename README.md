@@ -384,9 +384,9 @@ It offers AI-powered, all-in-one music solutions—from personal planning to inc
 
 ---
 
-## 第四章：发行、推广与经济管理（Publishing, Promotion & Financial Management）
+## 第四章：发行、推广与财务管理（Publishing, Promotion & Financial Management）
 
-本章将帮助独立音乐人优化音乐发行、推广和经济管理的流程，提供详细的AI提示词，助你选择合适的发行平台、提升市场推广效果，并合理管理收入和成本。
+本章将帮助独立音乐人优化音乐发行、推广和财务管理的流程，提供详细的AI提示词，助你选择合适的发行平台、提升市场推广效果，并合理管理收入和成本。
 
 ### 4.1 音乐发行平台与策略
 
